@@ -1,13 +1,3 @@
 # test
 
-To jest repozytorium do nauki git 
-Zawiera nic
-A line I wrote on my local computer
-A line I wrote on my local computer
-A line I wrote on my local computer
-A line I wrote on my local computer <br>
-Linia wpisana do README za pomoca git bash 
- 
- 
- 
-Troche przerwy 
+Testowanie konfiguracji GitHub dla R
