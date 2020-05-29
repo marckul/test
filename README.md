@@ -5,7 +5,7 @@ Zawiera nic
 A line I wrote on my local computer
 A line I wrote on my local computer
 A line I wrote on my local computer
-A line I wrote on my local computer
+A line I wrote on my local computer <br>
 Linia wpisana do README za pomoca git bash 
  
  
