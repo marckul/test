@@ -1,3 +1,0 @@
-
-Komendy git:
-https://www.pluralsight.com/guides/using-git-and-github-on-windows
